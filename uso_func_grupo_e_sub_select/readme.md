@@ -6,7 +6,7 @@ E neste código faço uso de SUB-SELECT, JOIN, função de agrupamento COUNT e d
 
 
 
-## Explanation in Portuguese
+## Explanation in English
 
 In this directory I develop a query with SQL.
 
